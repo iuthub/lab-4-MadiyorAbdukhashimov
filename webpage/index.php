@@ -44,7 +44,7 @@
 			</dd>
 		</dl>		
 		<div>
-			<input type="submit" name="approve" value="I am a giant sucker" >  
+			<input type="submit" name="approve" value="I am a giant sucker" act>  
 		</div></form>
 	</body>
 </html>
